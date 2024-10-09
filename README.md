@@ -1,4 +1,3 @@
-
 # Secure Multi-Tier Application with AWS
 
 This project demonstrates the development of a **Secure Multi-Tier Application** using a variety of AWS services. The application architecture ensures high security, scalability, and availability by separating the application into different tiers and securing each layer with AWS best practices.
@@ -6,6 +5,8 @@ This project demonstrates the development of a **Secure Multi-Tier Application**
 ## Project Overview
 
 In this project, I built a secure multi-tier architecture that separates the web, application, and database layers, ensuring better security and manageability. The architecture incorporates several security measures such as **SSL**, **WAF**, and **AWS KMS** to safeguard data and communications across the infrastructure.
+
+You can view the project details [here](https://awsportfolio.sila.studio/project/secure-multi-tier-application/).
 
 This project was part of the **Digital Cloud Training** bootcamp, where I gained practical experience in creating secure and scalable applications using AWS services.
 
@@ -63,9 +64,9 @@ The solution includes:
 
 ## Acknowledgments
 
-This project was completed as part of the **Digital Cloud Training** bootcamp 
+This project was completed as part of the **Digital Cloud Training** bootcamp.
+
 ## Conclusion
 
 This project showcases how to build a highly secure, scalable, and resilient multi-tier application using AWS services. By implementing industry-standard security practices, this architecture ensures robust protection and compliance with security policies.
-
-![Screenshot 2024-03-11 155057](https://github.com/user-attachments/assets/b87a08cb-75de-41c5-94fa-64ddf5ba62b7)
+![Screenshot 2024-03-11 155057](https://github.com/user-attachments/assets/d074fa3b-0bdd-4b0b-a6bd-2928b2edec46)
